@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# IDE Patterns
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
